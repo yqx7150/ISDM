@@ -5,7 +5,7 @@ Imaging through scattering media via generative diffusion model
 
 **Authors**: Z. Chen, B. Lin, S. Gao, W. Wan*, Q. Liu*   
 
-Applied Physics Letters (Vol.124, Issue 5)
+Applied Physics Letters (Vol.124, Issue 5)     
 https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative        
 
 Date : Jan-29-2024  
