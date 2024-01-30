@@ -27,16 +27,16 @@ The scattering medium scrambles the light paths emitted from the targets into sp
 ![FIG7](https://github.com/zhaoyun1201/ISDM/assets/106502358/328c5f4b-eb00-4360-8f50-2861b09f2d38)
 
 # Requirements and Dependencies
-python==3.7.11
-Pytorch==1.7.0
-tensorflow==2.4.0
-torchvision==0.8.0
-tensorboard==2.7.0
-scipy==1.7.3
-numpy==1.19.5
-ninja==1.10.2
-matplotlib==3.5.1
-jax==0.2.26
+python==3.7.11<br>
+Pytorch==1.7.0<br>
+tensorflow==2.4.0<br>
+torchvision==0.8.0<br>
+tensorboard==2.7.0<br>
+scipy==1.7.3<br>
+numpy==1.19.5<br>
+ninja==1.10.2<br>
+matplotlib==3.5.1<br>
+jax==0.2.26<br>
 
 # Checkpoints
 We provide pretrained checkpoints. You can download pretrained models from [Baidu cloud] 
