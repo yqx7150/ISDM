@@ -42,3 +42,13 @@ python ISDM_reconstruction.py
 (a) USAF resolution targets, (b) speckles, (c) LR, (d) HIO, (e) TC, and (f) ISDM method. From top to bottom, G1E2: element 2 of group 1, G1E6: element 6 of group 1, G2E5: element 5 of group 2, and G3E2: element 2 of group 3.
 
 
+## Other Related Projects
+  * Lens-less imaging via score-based generative model  
+[<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/M/Articles/OJf1842c2819a4fa2e/Abstract)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LSGM)
+
+  * Multi-phase FZA Lensless Imaging via Diffusion Model  
+[<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)    
+
+  * Diffusion Models for Medical Imaging    
+[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)  
+
