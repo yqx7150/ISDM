@@ -26,3 +26,19 @@ python main.py --config=configs/ve/church_ncsnpp_continuous.py --workdir=exp_tra
 
 # Test:
 python ISDM_reconstruction.py
+
+## Structure diagram of imaging through scattering media
+<div align="center"><img src="https://github.com/yqx7150/ISDM/blob/main/ISDM/Figures/FIG1.png"> </div>
+    
+## Training and reconstruction flow chart of ISDM
+<div align="center"><img src="https://github.com/yqx7150/ISDM/blob/main/ISDM/Figures/FIG2.png"> </div>
+
+## The scattering imaging system
+<div align="center"><img src="https://github.com/yqx7150/ISDM/blob/main/ISDM/Figures/FIG6.png"> </div>
+
+## Recovery results of measured scatter data by different methods
+<div align="center"><img src="https://github.com/yqx7150/ISDM/blob/main/ISDM/Figures/FIG7.png"> </div>
+
+(a) USAF resolution targets, (b) speckles, (c) LR, (d) HIO, (e) TC, and (f) ISDM method. From top to bottom, G1E2: element 2 of group 1, G1E6: element 6 of group 1, G2E5: element 5 of group 2, and G3E2: element 2 of group 3.
+
+
